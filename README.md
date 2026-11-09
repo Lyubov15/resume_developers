@@ -1,4 +1,5 @@
-# Савельева Любовь Андреевна — Fullstack-разработчик
+# Савельева Любовь Андреевна
+**Fullstack — разработчик**
 
 Разрабатываю веб-приложения и цифровые сервисы на стыке frontend и backend: от проектирования интерфейса и клиентской логики до API, баз данных и интеграции внешних сервисов.
 
@@ -8,12 +9,15 @@
 
 ## Что я умею
 
-- **Frontend:** React, Next.js, Angular, Vue.js, TypeScript, JavaScript (ES6+), HTML5, CSS3/SCSS, адаптивная и кроссбраузерная вёрстка.
-- **Backend:** Node.js, Express, Python, FastAPI, Django, Laravel, REST API.
-- **Базы данных и хранение:** PostgreSQL, PostGIS, MySQL, SQLite, MinIO.
-- **Интеграции:** внешние API, GREEN-API, Telegram Bot API, Яндекс.Карты API.
-- **Инструменты и инфраструктура:** Git, GitHub, Docker, Docker Compose, Vite, Webpack, Vercel, GitHub Pages.
-- **Геоинформационные технологии:** Leaflet, Turf.js, D3-Delaunay, GeoJSON, OpenStreetMap.
+- **Языки программирования:** JavaScript (ES6+), TypeScript, HTML5, CSS3 / SCSS, Кроссбраузерная и
+адаптивная вёрстка,	PHP, Python
+- **Фреймворки и библиотеки:** React / React Hooks, Vue 2 / Vuex, Angular / Angular Signals, Next.js, RxJS, Leaflet, Turf.js, D3-Delaunay.
+- **Инструменты разработки:** Git, Docker.
+- **API и интеграция:** REST API, Яндекс.Карты API, GREEN-API.
+- **Дизайн:** Adobe Photoshop, Figma, UX/UI.
+- **Базы данных:** SQLite, MySQL, PostgreSQL / PostGIS.
+- **Backend:** Node.js, FastAPI, Laravel,	Aiogram (телеграмм-боты).
+- **Развёртывание:** GitHub Pages, Vercel, настройка домена и хостинга.
 
 ## Избранные проекты
 
@@ -86,33 +90,26 @@
 
 ### Другие проекты
 
-- **[Cars](https://github.com/Lyubov15/cars)** — каталог автомобилей с фильтрацией, динамическими карточками и формой заявки. Angular, TypeScript, RxJS. [Демо](https://lyubov15.github.io/cars/).
-- **[Comments](https://github.com/Lyubov15/comments)** — SPA для CRUD-операций с комментариями, сортировкой и пагинацией. Vue 2, Vuex, Axios, Laravel, Docker.
-- **[Broken Links](https://github.com/Lyubov15/broken_links)** — анализ HTML-страниц и проверка внутренних и внешних ссылок. Python, Django, BeautifulSoup4, SQLite.
-- **[Football Matches](https://github.com/Lyubov15/football_matches)** — мобильное приложение с расписанием и результатами футбольных матчей. React Native, Expo, TypeScript.
+- **[Cars](https://github.com/Lyubov15/cars)** — каталог автомобилей с фильтрацией, динамическими карточками и формой заявки. Стек: Angular, TypeScript, RxJS. [Демо](https://lyubov15.github.io/cars/).
+- **[Comments](https://github.com/Lyubov15/comments)** — SPA для CRUD-операций с комментариями, сортировкой и пагинацией. Стек: Vue 2, Vuex, Axios, Laravel, Docker.
+- **[Broken Links](https://github.com/Lyubov15/broken_links)** — анализ HTML-страниц и проверка внутренних и внешних ссылок. Стек: Python, Django, BeautifulSoup4, SQLite.
+- **[Football Matches](https://github.com/Lyubov15/football_matches)** — мобильное приложение с расписанием и результатами футбольных матчей. Стек: React Native, Expo, TypeScript.
 
-## Опыт и образование
+## Опыт работы
 
-**Frontend-разработчик — «Билайн»**
+**Frontend-разработчик — «Билайн» (01.06.2023 - настоящее время)**
 
 Практический опыт разработки и поддержки веб-интерфейсов: работа с UI, адаптивностью, кроссбраузерностью, оптимизацией и рефакторингом клиентского кода.
 
-**Образование**
+**Образование и переподготовка**
 
-- Магистратура — «Информатика и вычислительная техника», Волгоградский государственный технический университет.
-- Бакалавриат — «Экономика», Волгоградский государственный технический университет.
+- Магистратура — «Информатика и вычислительная техника».
+- Бакалавриат — «Экономика».
 - Профессиональная переподготовка — «Системы искусственного интеллекта».
-
-**Дополнительная квалификация:** сертификат GREEN-API Developer.
-
-## Как подхожу к разработке
-
-Стараюсь смотреть на задачу целиком: понимать потребность пользователя, выбирать подходящую архитектуру, учитывать взаимодействие frontend и backend, продумывать обработку ошибок и удобство интерфейса. Для меня важно не просто реализовать отдельный экран или endpoint, а собрать согласованно работающую функциональность.
-
-Открыта к задачам по frontend- и backend-разработке, созданию веб-сервисов, API и интеграций, а также к проектам с геоданными и AI-инструментами.
+- Сертификат GREEN-API Developer.
 
 ## Контакты
 
 - **Telegram:** [@Kyle_Kyles](https://t.me/Kyle_Kyles)
-- **GitHub:** [github.com/Lyubov15](https://github.com/Lyubov15)
 - **Email:** [luiba2017@mail.ru](mailto:luiba2017@mail.ru)
+- **GitHub:** [github.com/Lyubov15](https://github.com/Lyubov15)
